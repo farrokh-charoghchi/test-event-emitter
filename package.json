@@ -16,10 +16,10 @@
       "email": "farrokh.charoghchi@gmail.com"
     }
   ],
-  "homepage": "https://my-empty-ts-module.github.io",
+  "homepage": "https://farrokh-charoghchi.github.io/test-event-emitter/",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/farrokh.charoghchi/test-event-emitter.git"
+    "url": "https://github.com/farrokh-charoghchi/test-event-emitter.git"
   },
   "scripts": {
     "clean:bundles": "shx rm -rf _bundles",
