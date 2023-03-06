@@ -1,1 +1,1 @@
-//export { MyEmptyTestModule } from "./core/my-empty-test-module";
+export * from "./simple-event";
